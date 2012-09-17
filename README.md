@@ -1,6 +1,6 @@
 # loggly-console
 
-Loggly wrapper for console. Used by colingo
+Loggly wrapper for console.log
 
 ## Example
 

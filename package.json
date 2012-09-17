@@ -1,7 +1,7 @@
 {
   "name": "loggly-console",
   "version": "0.0.1",
-  "description": "Loggly wrapper for console. Used by colingo",
+  "description": "Loggly wrapper for console.log",
   "keywords": [],
   "author": "Raynos <raynos2@gmail.com>",
   "repository": "git://github.com/Colingo/loggly-console.git",
