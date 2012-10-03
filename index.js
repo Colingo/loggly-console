@@ -46,6 +46,7 @@ function augmentConsole(options) {
                 , methodName: "log"
                 , first: err
                 , timestamp: Date.now()
+                , stack : err.stack
             })
         }
 
